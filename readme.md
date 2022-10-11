@@ -32,7 +32,6 @@ docker ps -a
 
 [API REQUESTS](https://github.com/blaketingyu/OTOT-B/blob/main/DEPLOYMENT_QUERIES.postman_collection.json) </br>
 [GLOBAL ENV VARIABLES](https://github.com/blaketingyu/OTOT-B/blob/main/global_env_postman.txt) </br>
-Backend Deployment Site: https://otot-b-bwo66nc7ba-as.a.run.app
 
 
 # Task B2:
@@ -44,3 +43,5 @@ Backend Deployment Site: https://otot-b-bwo66nc7ba-as.a.run.app
 # Task B3:
 Frontend Deployment Site: https://otot-b-blake-blaketingyu.vercel.app/
 
+# Task B4:
+Frontend Deployment Site: https://otot-b-blake-blaketingyu.vercel.app/B4
